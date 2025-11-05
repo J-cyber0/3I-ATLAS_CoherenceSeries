@@ -45,12 +45,10 @@ Entry_1_3I_ATLAS/
 │
 ├── main.pdf              # Full manuscript
 ├── figures/              # Published figures
-│   ├── fig1_geometry.png
-│   ├── fig2_distribution.png
-│   └── fig3_dualplane.png
-├── src/                  # Supporting scripts or references
-│   └── scripts_used.txt
-└── README.md             # This file
+│   ├── angular_offsets_under_isotropy.png
+│   ├── isotropic_plane_angle_distribution.png
+│   └── orbital_geometry_jupiter_laplace.png
+└── README.md             # Study Overview
 ```
 
 ---
