@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Entry 1 — Preferential Plane Alignment of Interstellar Object 3I/ATLAS
 
 This entry presents the first publication of *Volume 3* of the **Journal of Coherent Systems**, examining the geometric and statistical properties of interstellar object **3I/ATLAS**.  
@@ -16,10 +17,29 @@ Results yield probabilities of **p ≈ 0.02–0.04**, suggesting that 3I/ATLAS�
 - Dual alignment probability exceeds isotropic expectation by ≈ 20×.  
 - Indicates partial angular coherence between Solar System reference planes.  
 - Interpreted within a *coherence-weighted* framework, the object may trace a region of least dynamical resistance.
+=======
+# Journal of Coherent Systems — Volume 3
+
+This repository hosts the *Coherent Systems* research series (Vol. 3), 
+focusing on cosmological and dynamical manifestations of coherence fields (Φ₍c₎).
+Each entry corresponds to a standalone study, published sequentially.
+
+---
+
+## Entries
+
+### Entry 1 — Preferential Plane Alignment of Interstellar Object 3I/ATLAS
+PDF: [`entries/Entry_1_3I_ATLAS/main.pdf`](entries/Entry_1_3I_ATLAS/main.pdf)  
+Data + code: [3I-ATLAS_CoherenceStudy](https://github.com/J-cyber0/3I-ATLAS_CoherenceStudy)
+
+### Entry 2 — (Upcoming) *Kinematic Coherence and Velocity-Space Correlations*
+To be released Q1 2026.
+>>>>>>> f5d160b23c86c7f3e29b8af4145520dc5eb8385b
 
 ---
 
 ## Repository Structure
+<<<<<<< HEAD
 ```
 Entry_1_3I_ATLAS/
 │
@@ -53,8 +73,17 @@ All data, figures, and numerical analyses are reproducible using the open-source
 
 ## Next Work
 Upcoming analysis: **Kinematic Coherence** — testing whether velocity-space distributions show the same ordered structure found in the geometry.  
+=======
+- `entries/` — Published journal entries (PDFs, figures, LaTeX source).  
+- `templates/` — Shared LaTeX styles, macros, and formatting for future volumes.  
+- `CITATION.cff` — Metadata for referencing the series in academic software.  
+>>>>>>> f5d160b23c86c7f3e29b8af4145520dc5eb8385b
 
 ---
 
 *Journal of Coherent Systems — Vol. 3 (2025)*  
+<<<<<<< HEAD
 Maintained by **@J-Cyber0**
+=======
+Maintained by independent researcher @J-Cyber0
+>>>>>>> f5d160b23c86c7f3e29b8af4145520dc5eb8385b
